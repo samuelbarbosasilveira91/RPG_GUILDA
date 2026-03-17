@@ -1,4 +1,9 @@
 package br.rpgguilda.rpg_guilda.model;
 
-public class Classe {
+public enum Classe {
+    GUERREIRO,
+    MAGO,
+    ARQUEIRO,
+    CLERIGO,
+    LADINO
 }
